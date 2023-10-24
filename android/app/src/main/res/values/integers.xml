@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="TIMEOUT">10000</integer>
+    <item type="integer" name="sliding_duration">@*android:integer/config_shortAnimTime</item>
+    <item type="integer" name="sliding_duration_long">@*android:integer/config_longAnimTime</item>
+</resources>

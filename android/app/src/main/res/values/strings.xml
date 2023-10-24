@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name"> Classified</string>
+    <string name="facebook_app_id">214343647368691</string>
+    <string name="fb_login_protocol_scheme">fb214343647368691</string>
+    <string name="facebook_client_token">ga0RGNYHvNM5d0SLGQfpQWAPGJ8=</string>
+
+    <string name="divider_for_splash">--------------------------X--------------------------</string>
+
+</resources>

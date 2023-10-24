@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_margin">8dp</dimen>
+    <dimen name="margin_ten">10dp</dimen>
+    <dimen name="margin_fifteen">15dp</dimen>
+    <dimen name="margin_twenty">20dp</dimen>
+    <dimen name="margin_twenty_five">25dp</dimen>
+    <dimen name="margin_forty">40dp</dimen>
+    <dimen name="margin_thirty">30dp</dimen>
+    <dimen name="margin_fifty">50dp</dimen>
+    <dimen name="margin_seventy">70dp</dimen>
+    <dimen name="margin_hundred">100dp</dimen>
+    <dimen name="margin_eighty">80dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_six">6dp</dimen>
+    <dimen name="margin_sixteen">16dp</dimen>
+    <dimen name="margin_twelve">12dp</dimen>
+    <dimen name="margin_xsmall">2dp</dimen>
+
+    <dimen name="dimen_32">32dp</dimen>
+    <dimen name="dimen_8">8dp</dimen>
+    <dimen name="dimen_14">14dp</dimen>
+    <dimen name="dimen_4">4dp</dimen>
+    <dimen name="dimen_1">1dp</dimen>
+    <dimen name="dimen_327">327dp</dimen>
+
+    <dimen name="text_size_twenty">20sp</dimen>
+    <dimen name="text_size_eighteen">18sp</dimen>
+    <dimen name="text_size_sixteen">16sp</dimen>
+    <dimen name="text_size_normal">14sp</dimen>
+    <dimen name="small_text_size">12sp</dimen>
+    <dimen name="text_size_ten">10sp</dimen>
+    <dimen name="text_size_xxlarge">36sp</dimen>
+    <dimen name="text_size_xlarge">28sp</dimen>
+    <dimen name="text_size_large">24sp</dimen>
+    <dimen name="text_size_twenty_two">22sp</dimen>
+
+    <!-- Custom alert dimens -->
+    <dimen name="custom_alert_title_text_size">20sp</dimen>
+    <dimen name="custom_alert_button_text_size">20sp</dimen>
+    <dimen name="custom_alert_message_size">18sp</dimen>
+    <dimen name="custom_alert_width_size">290dp</dimen>
+    <dimen name="custom_alert_button_height_size">40dp</dimen>
+
+    <!-- Tool Bar and Navigation Menu-->
+    <dimen name="toolbar_title_size">24sp</dimen>
+    <dimen name="toolbar_hamburger_menu_size">22dp</dimen>
+    <dimen name="header_menu_text_size">24sp</dimen>
+    <dimen name="header_menu_sub_text_size">18sp</dimen>
+    <dimen name="nav_menu_text_size">18sp</dimen>
+
+    <!--Splash -->
+    <dimen name="splash_title_text_size">45sp</dimen>
+    <dimen name="splash_title_sub_text_size">18sp</dimen>
+    <dimen name="splash_progress_view_width">180dp</dimen>
+
+    <!--Login -->
+    <dimen name="edit_text_height">40dp</dimen>
+    <dimen name="login_frame_width">300dp</dimen>
+    <dimen name="login_title_top_margin">60dp</dimen>
+    <dimen name="sign_in_button_text_size">18sp</dimen>
+    <dimen name="sign_in_button_height">36dp</dimen>
+    <dimen name="social_button_height">55dp</dimen>
+
+    <!-- Dashboard -->
+    <dimen name="search_bar_height">48dp</dimen>
+    <dimen name="bottom_navigation_bar_height">56dp</dimen>
+    <dimen name="bottom_navigation_bar_divider_height">1dp</dimen>
+    <dimen name="dashboard_item_image_view_width">160dp</dimen>
+    <dimen name="dashboard_item_view_width">165dp</dimen>
+    <dimen name="dashboard_item_image_view_height">130dp</dimen>
+    <dimen name="dashboard_item_card_view_height">240dp</dimen>
+    <dimen name="dashboard_continue_browsing_parent_layout_size">90dp</dimen>
+    <dimen name="dashboard_continue_browsing_image_layout_size">80dp</dimen>
+    <dimen name="progress_view_dashboard_height">150dp</dimen>
+    <dimen name="category_layout_size">80dp</dimen>
+    <dimen name="category_layout_size_image_size">40dp</dimen>
+
+    <!-- Dashboard Detail -->
+    <dimen name="product_detail_view_pager_height">240dp</dimen>
+    <dimen name="product_detail_dialog_box">300dp</dimen>
+    <dimen name="product_detail_fav_image_dimen">36dp</dimen>
+
+    <!--Settings -->
+    <dimen name="settings_icon_size">21dp</dimen>
+    <dimen name="settings_profile_pic_size">100dp</dimen>
+
+    <!-- Chat -->
+    <dimen name="chat_user_icon_size">40dp</dimen>
+    <dimen name="group_chat_user_icon_size">55dp</dimen>
+    <dimen name="chat_bax_height">48dp</dimen>
+    <dimen name="chat_box_image_size">220dp</dimen>
+
+    <!-- Upload -->
+    <dimen name="upload_category_card_view_size">140dp</dimen>
+    <dimen name="upload_description_edit_text_min_size">100dp</dimen>
+    <dimen name="map_layout_in_upload_detail">250dp</dimen>
+    <dimen name="upload_switch_min_width">50dp</dimen>
+    <dimen name="upload_selected_image_card_view">140dp</dimen>
+
+    <!-- Language Selection -->
+    <dimen name="language_selection_flag_size">32dp</dimen>
+
+    <!-- Location Selector -->
+    <dimen name="location_selector_edit_text_height">50dp</dimen>
+
+    <!-- Premium -->
+    <dimen name="premium_button_radius">25dp</dimen>
+    <dimen name="premium_recycler_view_height">200dp</dimen>
+    <dimen name="success_dialog_button_with">200dp</dimen>
+
+</resources>

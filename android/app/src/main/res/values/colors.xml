@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="abs__background_holo_light">#fff3f3f3</color>
+    <color name="white_background">#FFFFFFFF</color>
+    <color name="snow_color_background">#50E0E0E0</color>
+    <color name="black_background">#00000000</color>
+    <color name="theme_color_old">#E36048</color>
+    <color name="theme_color_dark_old">#E36048</color>
+    <color name="theme_color">#ED1C24</color>
+    <color name="theme_color_dark">#de1219</color>
+    <color name="blue_background">#1171FC</color>
+
+    <color name="toolbar_background">#80000000</color>
+    <color name="file_option_button_background">#EECCCCCC</color>
+    <color name="folder_picker_header_background">#CC000000</color>
+    <color name="thumbnail_background">#56FFFFFF</color>
+    <color name="light_black">#141414</color>
+    <color name="white_color_text">#FFFFFFFF</color>
+    <color name="white_bkground_transparent">#33FAFAFA</color>
+    <color name="gray_color_text">#666666</color>
+    <color name="light_gray_color_text">#999999</color>
+    <color name="light_gray_background">#d3d3d3</color>
+    <color name="light_gray">#d3d3d3</color>
+    <color name="disabled_color">#B3E0E0E0</color>
+    <color name="disabled_text_color">#9D9FA2</color>
+    <color name="transparent">#d3d3d3</color>
+    <color name="black_color_text">#000000</color>
+    <color name="dark_color_text">#333333</color>
+    <color name="peach_color_text">#00AFF0</color>
+    <color name="light_blue_color">#BEE0FF</color>
+    <color name="light_color_text">#FFCCCCCC</color>
+    <color name="colorPrimary">#1866AA</color>
+    <color name="colorAccent">#1866AA</color>
+    <color name="colorPrimaryDark">#1866AA</color>
+    <color name="button_background">#F1EFEFEF</color>
+    <color name="gray_color_transparent">#B3E0E0E0</color>
+    <color name="button_disabled_background">#EEEEEEEE</color>
+    <color name="button_disabled_color">#A1A1A1A1</color>
+    <color name="list_item_selected_color">#5A79CCFF</color>
+    <color name="yellow">#ffff00</color>
+    <color name="yellow_dark">#B3B8860B</color>
+    <color name="gray_border_color_text">#ff777777</color>
+    <color name="passcode_keypad_key_color">#4cbfbfbf</color>
+    <color name="passcode_keypad_key_pressed_color">#66139EBD</color>
+    <color name="drawer_bkground">#303030</color>
+    <color name="list_drawer_divider">#272727</color>
+    <color name="list_drawer_background_pressed">#992416</color>
+    <color name="drawer_text_color">#c5c4c4</color>
+    <color name="drawer_counter_text_bg">#626262</color>
+    <color name="drawer_list_background">#1F1E1E</color>
+    <color name="new_ui_red_background">#613e7e</color>
+    <color name="ltgray_color_text">#888888</color>
+    <color name="edittexttheme_color">#1bace1</color>
+    <color name="login_background_color">#FFFFFFFF</color>
+    <color name="progress_bar_bkgroud">#BF303030</color>
+    <color name="progress_bar_color">#FFFFFFFF</color>
+    <color name="disable_icon_color">#FF888888</color>
+    <color name="swipe_refresh_blue">#FF33B5E5</color>
+    <color name="swipe_refresh_purple">#FFAA66CC</color>
+    <color name="swipe_refresh_orange">#B3FFBB33</color>
+    <color name="drak_gray">#ff888888</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="red">#FF0000</color>
+    <color name="login_green">#61AE7D</color>
+    <color name="orange">#ff5a00</color>
+    <color name="login_alert_color">#F7F7F9</color>
+    <color name="black_transparent_color">#B3000000</color>
+    <color name="theme_transparent_color">#ED1C24</color>
+
+    <color name="search_prop_even_color">#EEEEEE</color>
+    <color name="search_detail_color">#A9AAAF</color>
+    <color name="accepted_green">#B399CC00</color>
+    <color name="taken_white">#B3ffffff</color>
+    <color name="denied_red">#CA0009</color>
+    <color name="waiting_yellow">#B3ffff00</color>
+    <color name="dark_green">#006400</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="shadow_black">#313C3F</color>
+    <color name="android_def_cursor_color">#0D9582</color>
+
+    <color name="jrspinner_color_line">#E0E0E0</color>
+    <color name="jrspinner_color_default">#99000000</color>
+    <color name="jrspinner_black_transparent">#80000000</color>
+
+    <color name="off_red">#E74C47</color>
+    <color name="off_yellow">#ED820F</color>
+
+    <color name="translucent_white">#80FFFFFF</color>
+    <color name="dark_gray">#243037</color>
+
+    <color name="light_blue">#59AAFF</color>
+    <color name="blue">#2C7DE3</color>
+    <color name="dark_blue">#1C6AC9</color>
+
+</resources>

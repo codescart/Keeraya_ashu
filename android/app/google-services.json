@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1073919458848",
+    "firebase_url": "https://keeraya-777ef-default-rtdb.firebaseio.com",
+    "project_id": "keeraya-777ef",
+    "storage_bucket": "keeraya-777ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073919458848:android:f52d9adb2aca5d69c98645",
+        "android_client_info": {
+          "package_name": "com.foundercodes.keeraya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073919458848-qc5jr7e27btfb21v97m3f3t58pep075i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foundercodes.keeraya",
+            "certificate_hash": "e2414c9fd476fcc20035fd0492ee1c630902adbc"
+          }
+        },
+        {
+          "client_id": "1073919458848-vfj2gslrrp3bucmfcqe68o8n0aa2atqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmRfGvwSamgUt2uzApVgz1F1qY4Z62JNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073919458848-jsk9npc69pab7psb03ki2d48aa6ja7a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
